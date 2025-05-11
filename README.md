@@ -1,3 +1,3 @@
 # goit-markup-hw-01
 
-This is my first project
+Homework #1 for GoIT course — basic HTML page layout (WebStudio).
